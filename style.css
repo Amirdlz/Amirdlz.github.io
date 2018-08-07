@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.common {
+    background-color: dodgerblue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+}
+.eye {
+    background-color: white;
+    width: 5px;
+    height: 5px;
+    display: inline-block;
+}
+#container {
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+#eye-left {
+    margin-left: 30px;
+}
+
+#head {
+    width: 70px;
+    height: 49px;
+    border-radius: 70px 70px 0 0;
+    transition: all 0.7s;
+    padding: 50px 0 0 30px;
+    margin-left: 104px;
+}
+#head:hover {
+    width: 153px;
+    height: 49px;
+    margin-left: 70px;
+    padding-left: 15px;
+    border-radius: 320px 320px 0 0;
+
+}
+#mid-body {
+    margin-left: 70px;
+}
+#left-hand{
+    width: 30px;
+    transition: 0.6s;
+}
+#left-hand:hover {
+    transform: rotate(45deg);
+}
+#right-hand {
+    width: 30px;
+}
+#end-body {
+    margin-left: 70px;
+}
+#left-leg{
+    width: 30px;
+    margin-left: 50px;
+    transition: 0.6s;
+}
+#left-leg:hover {
+    transform: rotate(45deg);
+}
+#right-leg {
+    width: 30px;
+}
