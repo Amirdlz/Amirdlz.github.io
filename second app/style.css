@@ -1,0 +1,33 @@
+body {
+    color: #020d1a;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    background: linear-gradient(to right, rgb(111, 111, 111), rgb(222, 222, 222));
+}
+#header1 {
+    color: #020d1a;
+    text-align: center;
+    text-transform: uppercase;
+    text-space: 5px;
+}
+#header2 {
+    color: #020d1a;
+    text-align: center;
+    text-transform: uppercase;
+    text-space: 5px;
+
+}
+#header3 {
+    color: #020d1a;
+    text-align: center;
+    text-transform: uppercase;
+    text-space: 5px;
+
+}
+#inp1 {
+    text-align: center;
+}
+#inp2 {
+    text-align: center;
+}
